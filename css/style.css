@@ -1327,6 +1327,11 @@ a, button{
     .tab-logo-box a img{
         margin-bottom: 20px;
     }
+    
+    .testimonial-comment p{
+        font-size: 15px;
+        line-height: 1.5;
+    }
 
     .mobile-menu-overlay__inner{
       width: 300px;
