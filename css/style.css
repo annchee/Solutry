@@ -621,7 +621,7 @@ a, button{
 /********************* APPOINTMENT AREA ***************************/
 .appointment{
     background-color: transparent;
-    background-image: url(/images/home.PNG);
+    background-image: url(/images/home.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
